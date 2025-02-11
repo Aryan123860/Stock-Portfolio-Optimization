@@ -41,6 +41,6 @@ This project focuses on **optimizing stock portfolios** using quantitative finan
 - Insights into diversification strategies for a balanced portfolio.  
 
 ## 📬 Contact  
-For questions or collaboration, feel free to reach out at **[your email or LinkedIn profile]**.  
+For questions or collaboration, feel free to reach out at bhardwajaryan740@gmail.com  
 
 ---
