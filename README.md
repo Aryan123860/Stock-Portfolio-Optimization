@@ -6,7 +6,7 @@
 This project focuses on **optimizing stock portfolios** using quantitative finance techniques. The goal is to maximize returns while minimizing risk through efficient asset allocation.  
 
 ## 📂 Files in the Repository  
-- `Stock_portfolio_optimization_fin.ipynb` - Jupyter Notebook containing the code and analysis for stock portfolio optimization.  
+- `Stock_portfolio_optimization_upd.ipynb` - Jupyter Notebook containing the code and analysis for stock portfolio optimization.  
 - `README.md` - Project documentation.  
 
 ## 📊 Key Features  
